@@ -542,14 +542,14 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
                 hisoka.sendMessage(m.chat, { image: { url: 'https://telegra.ph/file/7986cfa73a79eb632e135.jpg' }, caption: `*LIST BOT YANXZ*
 
-```VIA GOPAY```
+*VIA GOPAY*
 
 *-5K PERMANEN*
 *-3K PERBULAN*
 *-2K PERMINGGU*
 *-1K PERHARI*
 
-```VIA QRIS ALL PAY```
+*VIA QRIS ALL PAY*
 
 *-6K PERMANEN*
 *-4K PERBULAN*
@@ -557,7 +557,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 *-2K PERHARI*
 
 
-```VIA PULSA```
+*VIA PULSA*
 
 *-15K PERMANEN*
 *-10K PERBULAN*
